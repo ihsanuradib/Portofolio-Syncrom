@@ -3,4 +3,5 @@ memasukan file csv
 memasukan arcgis dashboard
 - buat dlu arcgis dashboard
 - menggunakan template
-
+- bisa cari refensi di arcgis dashboard galery
+- buat tema tentang covid
