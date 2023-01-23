@@ -2,5 +2,6 @@ memasukan file csv
 -ekstrak data terlebih dahulu lalu buat model
 memasukan arcgis dashboard
 - buat dlu arcgis dashboard
-- bisa memakai opsi lain menggunakan arcgis experience builder
-- lebih mudah dikustomisai dan di edit
+- menggunakan template
+- bisa cari refensi di arcgis dashboard galery
+- buat tema tentang covid
