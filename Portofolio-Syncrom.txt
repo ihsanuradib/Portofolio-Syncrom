@@ -1,0 +1,9 @@
+Isi Portofolio
+
+-Tautan ke aplikasi ArcGIS Story Maps yang telah Anda buat
+-Gambar atau screenshot dari aplikasi tersebut
+-Deskripsi proyek yang menjelaskan tujuan proyek, teknologi yang digunakan, dan hasil yang dicapai
+-Kode sumber dari aplikasi web atau skrip yang digunakan dalam proyek tersebut
+-Data yang digunakan dalam proyek, seperti file shapefile, CSV, atau file lainnya
+-Kode-kode Python atau R yang digunakan dalam proyek data science
+-Hasil analisis yang diperoleh dari proyek data science
