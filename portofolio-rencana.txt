@@ -3,3 +3,4 @@ memasukan file csv
 memasukan arcgis dashboard
 - buat dlu arcgis dashboard
 - bisa memakai opsi lain menggunakan arcgis experience builder
+- lebih mudah dikustomisai dan di edit
