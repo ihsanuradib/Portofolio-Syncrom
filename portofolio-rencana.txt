@@ -2,4 +2,4 @@ memasukan file csv
 -ekstrak data terlebih dahulu lalu buat model
 memasukan arcgis dashboard
 - buat dlu arcgis dashboard
-
+- bisa memakai opsi lain menggunakan arcgis experience builder
