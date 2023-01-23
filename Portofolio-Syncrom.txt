@@ -7,3 +7,9 @@ Isi Portofolio
 -Data yang digunakan dalam proyek, seperti file shapefile, CSV, atau file lainnya
 -Kode-kode Python atau R yang digunakan dalam proyek data science
 -Hasil analisis yang diperoleh dari proyek data science
+
+Teknis
+- Buat kode untuk yolo
+- Model ekstraksi dalam bentuk csv
+- Gabungkan dengan arcgis pro
+
